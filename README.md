@@ -35,7 +35,9 @@ Me chamo Maria Rita, tenho 20 anos e sou de Mato Grosso. Sou estudante de Ciênc
 
 ### 📌 Projetos em Destaque
 
-- **Gerenciador de Tarefas CLI**: Aplicação desenvolvida em **Node.js** para execução no terminal, permitindo criar, listar e remover tarefas de forma dinâmica com o uso de `inquirer` e manipulação do sistema de arquivos com `fs`.
+📌 Projetos em Destaque
+
+* **[Gerenciador de Tarefas CLI](https://github.com/mariaritatech/task_manager_cli)**: Aplicação desenvolvida em **Node.js** para execução no terminal, permitindo criar, listar e remover tarefas de forma dinâmica com o uso de `inquirer` e manipulação do sistema de arquivos com `fs`.
 
 ---
 
