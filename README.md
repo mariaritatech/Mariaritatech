@@ -35,15 +35,13 @@ Me chamo Maria Rita, tenho 20 anos e sou de Mato Grosso. Sou estudante de Ciênc
 
 ### 📌 Projetos em Destaque
 
-📌 Projetos em Destaque
-
 * **[Gerenciador de Tarefas CLI](https://github.com/mariaritatech/task_manager_cli)**: Aplicação desenvolvida em **Node.js** para execução no terminal, permitindo criar, listar e remover tarefas de forma dinâmica com o uso de `inquirer` e manipulação do sistema de arquivos com `fs`.
 
 ---
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mariaritatech&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub da Maria Rita" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaritatech&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mariaritatech&show_icons=true&theme=tokyonight&locale=pt-br" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaritatech&layout=compact&theme=tokyonight&locale=pt-br" />
+</div>
